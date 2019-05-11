@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">购物App</string>
+    <string name="user_name">请输入用户名</string>
+    <string name="pwd_name">请输入密码</string>
+    <string name="ok_name">登录</string>
+    <string name="no_name">退出</string>
+    <string name="zc_name">注册账号</string>
+    <string name="second_name">请再次输入密码</string>
+    <string name="wj_name">找回密码?</string>
+    <string name="kf_name">客服</string>
+    <string name="zzc_name">注 册</string>
+    <string name="wsn_name">购买界面还没设计完成，尽请等待!</string>
+    <string name="sp_name">无线鼠标可充电式笔记本台式电脑游戏办公家用无声静音男女生联想华硕惠普苹果小米戴尔机械无限电竞有声便携</string>
+    <string name="sure_name">确定</string>
+    <string name="share_name">分享</string>
+    <string name="shop_name">商品页</string>
+    <string name="wsm_name">添加界面还没设计完成，尽请等待!</string>
+    <string name="sx_name">规格 选择 颜色 分类</string>
+    <string name="hh_name">货号：1111111111111</string>
+    <string name="price_name">市场价: 40.50元 /个</string>
+    <string name="hy_name">平台会员价:30.90元 /个</string>
+    <string name="buy_name">立即购买</string>
+    <string name="add_name">加入购物车</string>
+    <string name="ys_name">颜色</string>
+    <string name="fl_name">颜色分类</string>
+    <string name="sl_name">购买数量</string>
+    <string name="js_name">+</string>
+    <string name="ms_name">1</string>
+    <string name="ss_name">-</string>
+    <string name="select_name">选择完成</string>
+    <string name="result_name">筛选结果!</string>
+
+
+
+
+
+
+
+</resources>
+

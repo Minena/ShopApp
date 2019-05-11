@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--主界面（商品选择界面）用 RelativeLayout  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    tools:context="com.xx.Shopping.android.test.MainActivity">
+
+    <!--商品存放于列表中  -->
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+        </ListView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#ff1100">
+        <!--文本框设置商品页  -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/shop_name"
+            android:textColor="#000000"
+           android:gravity="center"/>
+
+
+    </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+
+
+

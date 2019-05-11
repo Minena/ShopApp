@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <!--网格视图 设置用RelativeLayout-->
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    tools:context="com.xx.Shopping.android.test.GridViewAdapter">
+        <RelativeLayout
+            android:id="@+id/ll"
+            android:layout_width="100dp"
+            android:layout_height="32dp"
+            android:layout_centerInParent="true"
+            android:layout_margin="5dp"
+            android:background="#218d86">
+            <!--文本框  设置颜色  -->
+            <TextView
+                android:id="@+id/tv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:ellipsize="none"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/ys_name"
+                android:textSize="13sp"
+                android:maxLength="12"
+                android:textColor="#ff88"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
